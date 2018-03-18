@@ -1,0 +1,3 @@
+### Build
+
+`wyam build`
