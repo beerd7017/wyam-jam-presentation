@@ -1,3 +1,3 @@
-### Let's Build a Site for Project Documentation
+### Let's Build A Project Documentation Site
 
-_Add some info._
+`wyam new -r Docs`

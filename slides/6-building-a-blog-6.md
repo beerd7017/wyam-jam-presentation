@@ -1,0 +1,3 @@
+### Run
+
+`wyam preview`
