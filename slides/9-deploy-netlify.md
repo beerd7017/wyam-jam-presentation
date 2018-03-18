@@ -1,0 +1,3 @@
+### Deploy to Netlify
+
+Global CDN, Continuous Deployment, one click HTTPS, ...
