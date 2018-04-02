@@ -24,7 +24,6 @@
     <p class="fragment current-visible">Metalsmith</p>
     <p class="fragment current-visible">Middleman</p>
     <p class="fragment current-visible">MkDocs</p>
-    <p class="fragment current-visible">RevealJs</p>
 </section>
 <section data-transition="fade-in slide-out">
     <p class="fragment current-visible">Wyam</p>
